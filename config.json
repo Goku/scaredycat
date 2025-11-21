@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "test",
-      "platform": "roblox",
-      "price": 123
-    },
-    {
       "name": "cremating",
       "platform": "discord",
       "price": 150
