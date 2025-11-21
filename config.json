@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "questionnaire",
+      "platform": "instagram",
+      "price": 250
+    },
+    {
       "name": "cremating",
       "platform": "discord",
       "price": 150
