@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "3id",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
       "name": "questionnaire",
       "platform": "instagram",
       "price": 250
