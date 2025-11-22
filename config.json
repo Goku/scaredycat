@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "illumination",
+      "platform": "discord",
+      "price": 300
+    },
+    {
       "name": "3id",
       "platform": "epicgames",
       "price": 15
