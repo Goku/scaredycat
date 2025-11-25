@@ -1861,11 +1861,6 @@
       "price": 75
     },
     {
-      "name": "requeue",
-      "platform": "telegram",
-      "price": 25
-    },
-    {
       "name": "traplandpat",
       "platform": "telegram",
       "price": 35
