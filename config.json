@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "starburst",
+      "platform": "snapchat",
+      "price": 100
+    },
+    {
       "name": "psychopathy",
       "platform": "snapchat",
       "price": 150
