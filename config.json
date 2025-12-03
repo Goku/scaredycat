@@ -38,7 +38,7 @@
     {
       "name": "redirected",
       "platform": "steam",
-      "price": 25
+      "price": "offer"
     },
     {
       "name": "voucher",
