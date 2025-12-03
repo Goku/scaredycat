@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "earmuffs",
-      "platform": "discord",
-      "price": 50
-    },
-    {
       "name": "ukulele",
       "platform": "medal.tv",
       "price": "offer"
