@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "three6mafia",
+      "platform": "steam",
+      "price": 50
+    },
+    {
       "name": "genshinimpact",
       "platform": "steam",
       "price": 75
