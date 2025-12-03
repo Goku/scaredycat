@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cleopatra",
+      "platform": "roblox",
+      "price": 500
+    },
+    {
       "name": "hakuna + @matata",
       "platform": "telegram",
       "price": 600
