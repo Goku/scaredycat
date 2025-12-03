@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "redirected",
+      "platform": "steam",
+      "price": 25
+    },
+    {
       "name": "voucher",
       "platform": "steam",
       "price": 35
