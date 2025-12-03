@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "natesib",
+      "platform": "telegram",
+      "price": 500
+    },
+    {
       "name": "humungousaur",
       "platform": "telegram",
       "price": 75
