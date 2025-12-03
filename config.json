@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "yourragegaming",
+      "platform": "minecraft",
+      "price": 50
+    },
+    {
       "name": "babychiefdoit",
       "platform": "minecraft",
       "price": 300
