@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "scurrying",
+      "platform": "telegram",
+      "price": 100
+    },
+    {
       "name": "redirected",
       "platform": "steam",
       "price": 25
