@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "stats",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "starburst",
       "platform": "snapchat",
       "price": 100
