@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "lungs",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "submit",
       "platform": "epicgames",
       "price": 125
