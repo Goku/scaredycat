@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "voucher",
+      "platform": "steam",
+      "price": 35
+    },
+    {
       "name": "three6mafia",
       "platform": "steam",
       "price": 50
