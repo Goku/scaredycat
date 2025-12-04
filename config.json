@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "thickness",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "belated",
       "platform": "epicgames",
       "price": 35
