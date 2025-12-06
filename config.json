@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gulag",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "stickup",
       "platform": "discord",
       "price": 100
