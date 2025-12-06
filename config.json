@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cashcobain",
+      "platform": "epicgames",
+      "price": 25
+    },
+    {
       "name": "thickness",
       "platform": "epicgames",
       "price": 25
