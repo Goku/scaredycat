@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "kody",
-      "platform": "epicgames",
-      "price": 75
-    },
-    {
       "name": "fungal",
       "platform": "epicgames",
       "price": 50
