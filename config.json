@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "test",
+      "platform": "epicgames",
+      "price": 100
+    },
+    {
       "name": "urin*l",
       "platform": "github",
       "price": 100
