@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "fimiguerrero",
+      "platform": "epicgames",
+      "price": 150
+    },
+    {
       "name": "w**b",
       "platform": "github",
       "price": "offer"
