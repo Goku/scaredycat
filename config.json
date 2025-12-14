@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "surrounding",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "nightly",
       "platform": "snapchat",
       "price": 75
