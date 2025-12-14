@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "brokenhearted",
+      "platform": "snapchat",
+      "price": 200
+    },
+    {
       "name": "computing",
       "platform": "snapchat",
       "price": 75
