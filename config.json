@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "misbehaving",
+      "platform": "snapchat",
+      "price": 175
+    },
+    {
       "name": "brisbane",
       "platform": "snapchat",
       "price": 300
