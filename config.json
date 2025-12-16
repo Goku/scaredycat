@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "gathered",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "callofduty",
       "platform": "discord",
       "price": 500
