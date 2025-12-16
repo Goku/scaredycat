@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "entirely",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "gathered",
       "platform": "snapchat",
       "price": 75
