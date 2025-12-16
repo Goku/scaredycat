@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "callofduty",
+      "platform": "discord",
+      "price": 500
+    },
+    {
       "name": "ylp",
       "platform": "epicgames",
       "price": 25
