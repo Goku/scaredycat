@@ -1,6 +1,21 @@
 {
   "accounts": [
     {
+      "name": "sexyyred",
+      "platform": "discord",
+      "price": 250
+    },
+    {
+      "name": "tinkatink",
+      "platform": "discord",
+      "price": 75
+    },
+    {
+      "name": "iraq",
+      "platform": "epicgames",
+      "price": 500
+    },
+    {
       "name": "op*city",
       "platform": "github",
       "price": 150
