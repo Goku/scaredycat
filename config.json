@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "inmate",
+      "platform": "epicgames",
+      "price": 250
+    },
+    {
       "name": "melaniatrump",
       "platform": "discord",
       "price": 75
